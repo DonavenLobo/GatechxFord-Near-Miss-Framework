@@ -9,6 +9,7 @@ This repository provides a comprehensive framework for analyzing and visualizing
 ## Table of Contents
 
 - [Setup](#setup)
+- [Virtual Environment](#virtual-environment)
 - [Usage](#usage)
     - [1 -- Extract Trips](#step-1-extract-relevant-bluecruise-trip-data)
     - [2a -- Extract Near Miss Sequences (Fingerprint)](#2a-extract-near-miss-sequences-fingerprint)
@@ -19,13 +20,29 @@ This repository provides a comprehensive framework for analyzing and visualizing
     - [5 -- Output Evaluation](#step-5-output-evaluation)
 - [Appendix](#appendix)
     
-  
+## Simple Comand Line Commands
+
+- `cd <repository-directory>`: change to the repository directory
+- `cd ..`: change to the parent directory
+- `ls`: list files in the current directory
+- `pwd`: print working directory
 
 ## Setup
 
-To get started, you need to set up a Python virtual environment and install the necessary dependencies.
+1. **Clone the Repository**:
+    First change to the directory where you want to clone the repository
+   ```bash
+   git clone https://github.com/DonavenLobo/GatechxFord-Near-Miss-Framework.git
+   cd https://github.com/DonavenLobo/GatechxFord-Near-Miss-Framework.git
+   ```
 
-### Create and Activate a Virtual Environment
+2. **Ensure you have Python 3.9 or later installed**. You can check your Python version with:
+   ```bash
+   python --version
+   ```
+
+## Virtual Environment
+
 
 1. **Create a virtual environment**:
    ```bash
