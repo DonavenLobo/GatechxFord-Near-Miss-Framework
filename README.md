@@ -126,7 +126,14 @@ This workflow allows you to extract, process, and analyze BlueCruise trip data e
 
 ## Appendix
 
+### Other Useful Notebooks
 - [BlueCruise Near Miss Algorithm Development](appendix/BlueCruise_NearMiss_Algo_Dev3.ipynb)
 - [BlueCruise Live Vehicle Testing Map](appendix/BlueCruise_LiveVehicleTesting_Map_10-30-24.ipynb)
 - [BlueCruise Visualization](appendix\BlueCruise_Visualizing_Near_Miss_Study1.ipynb)
 - [BlueCruise Statistical Study (KS Test)](appendix\BlueCruise_Distribution_KS_Test.ipynb)
+
+### Useful Github Repositories
+
+- [Donaven Lobo's UBI Gatech x Ford Working Repository](https://github.com/DonavenLobo/UBI-Research-FordxGatech)
+- [Near Miss Algorithm Development](https://github.com/DonavenLobo/FordxGatech_NearMissAlgo_Dev)
+- [Near Miss Maneuver Animations](https://github.com/DonavenLobo/GatechxFord-Near-Miss-Maneuver-Animations)
