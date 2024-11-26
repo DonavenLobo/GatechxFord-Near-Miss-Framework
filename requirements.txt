@@ -1,0 +1,10 @@
+pandas
+google-cloud-bigquery
+numpy
+matplotlib
+seaborn
+folium
+joblib
+jupyter
+scipy
+ipykernel
